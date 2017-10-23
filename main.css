@@ -1,0 +1,54 @@
+.rectangulo{
+	width: 62px;
+	height: 5px;
+	background-color: black;
+	}
+p{
+	font-size: small;
+	color: white;
+
+}
+.fin, .jake, .marceline{
+	display: inline-block;
+	margin: 10px;
+}
+.princesa, .beemo, .grumosa{
+	display: inline-block;
+	margin: 10px;
+}
+.img{
+	position: relative;
+	width: 100px;
+	height: 100px;
+}
+.texto1{
+	position: absolute;
+	top: 145px;
+	left: 50px;
+}
+.texto2{
+	position: absolute;
+	top: 145px;
+	left: 200px;
+}
+.texto3{
+	position: absolute;
+	top: 145px;
+	left: 315px;
+}
+.texto4{
+	position: absolute;
+	top: 275px;
+	left: 25px;
+
+}
+.texto5{
+	position: absolute;
+	top: 275px;
+	left: 223px;
+}
+.texto6{
+	position: absolute;
+	top: 275px;
+	left: 315px;
+}
